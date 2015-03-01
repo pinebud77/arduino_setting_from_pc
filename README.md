@@ -18,4 +18,21 @@ I got the CSerial and HTTP source code from somewhere I don't remember, and modi
 ## Thing to Do
 
 - More general application framework (?)
-- Add sample UART output of my sensor node Arduino board
+- ~~Add sample UART output of my sensor node Arduino board~~
+
+## Sample UART output from Arduino
+
+'''
+Press 'c' key to update AP settings :
+Press 'a' to set AP settings, Press 's' to scan APs :
+Scan result :
+SK\_WiFi4D19
+-90
+3
+Press 'a' to set AP settings, Press 's' to scan APs :
+SSID : Security : Password : Writing EEPROMj
+reading EEPROM..
+connecting to AP..
+AP connected 1
+mac: 18-fe-34-9d-15-5f
+'''
