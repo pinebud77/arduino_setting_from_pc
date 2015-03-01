@@ -22,7 +22,7 @@ I got the CSerial and HTTP source code from somewhere I don't remember, and modi
 
 ## Sample UART output from Arduino
 
-'''
+```
 Press 'c' key to update AP settings :
 Press 'a' to set AP settings, Press 's' to scan APs :
 Scan result :
@@ -35,4 +35,4 @@ reading EEPROM..
 connecting to AP..
 AP connected 1
 mac: 18-fe-34-9d-15-5f
-'''
+```
